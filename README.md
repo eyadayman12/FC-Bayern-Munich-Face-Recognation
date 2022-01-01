@@ -1,6 +1,6 @@
 # FC-Bayern-Munich-Face-Recognation
 
-**I have Collected a certain data from google, I collected 100 random pictures of 5 players from Bayern Munich Team, In this Repo, I showed how I collected the data and then applied the Data Cleaning, Preprocessing, Feature Scaling and Feature Engineering to it and then modeling using Machine and deep Learning Algorithms**<br><br>
+**I have Collected a certain data from google, I collected 100 random pictures of 5 players from Bayern Munich Team, In this Repo, I showed how I collected the data and then applied the Data Cleaning, Preprocessing, Feature Scaling and Feature Engineering, After Cleaning the raw images Each Play to it and then modeling using Machine and deep Learning Algorithms**<br><br>
 
 **So Our data is Classification Problem, We have 5 Classes:**<br>
 ***Class 0 -> Kingsely Coman***<br>
