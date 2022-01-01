@@ -6,7 +6,7 @@
 ***Class 0 -> Kingsely Coman***<br>
 <img src = 'Data/Coman/kingsley_coman.png' width=800, hight=800>
 ***Class 1 -> Joshua Kimmich***<br>
-<img src = 'Data/Joshua Kimmich/Joshua Kimmich.jpg' width=800, hight=800>
+<img src = 'Data/Joshua Kimmich/Josh.png' width=800, hight=800>
 ***Class 2 -> Robert Lewandowski***<br>
 <img src = 'Data/Lewandowski/Robert-Lewandowski.png' width=800, hight=800>
 ***Class 3 -> Manuel Neuer***<br>
