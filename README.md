@@ -4,14 +4,14 @@
 
 **So Our data is Classification Problem, We have 5 Classes:**<br>
 ***Class 0 -> Kingsely Coman***<br>
-<img src = 'Data/Coman/kingsley_coman.png' width=800, hight=800>
+<img src = 'Data/Coman/kingsley_coman.png' width=800, hight=800><br>
 ***Class 1 -> Joshua Kimmich***<br>
-<img src = 'Data/Joshua Kimmich/Josh.png' width=800, hight=800>
+<img src = 'Data/Joshua Kimmich/Josh.png' width=800, hight=800><br>
 ***Class 2 -> Robert Lewandowski***<br>
-<img src = 'Data/Lewandowski/Robert-Lewandowski.png' width=800, hight=800>
+<img src = 'Data/Lewandowski/Robert-Lewandowski.png' width=800, hight=800><br>
 ***Class 3 -> Manuel Neuer***<br>
-<img src = 'Data/Manuel Neuer/Manuel Neuer_ News & player profile... (1).png' width=800, hight=800>
+<img src = 'Data/Manuel Neuer/Manuel Neuer_ News & player profile... (1).png' width=800, hight=800><br>
 ***Class 4 -> Leory Sane***<br><br>
-<img src = 'Data/Sane/FC Bayern Munich.png' width=800, hight=800>
+<img src = 'Data/Sane/FC Bayern Munich.png' width=800, hight=800><br>
 
 **You can use the data directly after cleaning, preprocessing, scaling and feature engineering from these link I already Uploaded it on Kaggle: https://www.kaggle.com/eyadgk/fc-bayern-face-recognation**<br><br>
